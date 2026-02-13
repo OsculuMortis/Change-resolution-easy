@@ -5,7 +5,7 @@ This tool makes switching your primary monitor’s resolution quick and effortle
 How to Use:
 
 Copy the folder to your C: drive so it appears as C:\Tools.
-Open the .bat file and edit the text at the bottom to set:
+Open the .bat file located at C:\Tools\ResolutionToggle and edit the text at the bottom to set:
 The resolution and refresh rate you want to switch to
 Example configurations:
 
