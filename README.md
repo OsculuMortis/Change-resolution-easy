@@ -1,8 +1,9 @@
 Change-Resolution-Easy
-Change your monitor resolution with a single click.
+I made a UI application that does the same thing without you needing to manually edit files.
+Just open and change your monitor resolution with a single click.
 This tool makes switching your primary monitor’s resolution quick and effortless. It’s especially useful if you frequently change resolutions—like when casting your screen to a TV or using an ultrawide monitor.
 
-How to Use:
+How to Use Tools:
 
 Copy the folder to your C: drive so it appears as C:\Tools.
 Open the .bat file located at C:\Tools\ResolutionToggle and edit the text at the bottom to set:
